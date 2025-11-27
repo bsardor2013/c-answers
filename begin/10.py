@@ -4,3 +4,4 @@ print(a+b)
 print(a*b)
 print(a**2)
 print(b**2)
+#C++ Dastur.uz
